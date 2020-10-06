@@ -42,3 +42,13 @@
 
 - git pull origin master (다운로드)
 - npm install (의존성 다운로드)
+
+### 결과
+
+![image](https://user-images.githubusercontent.com/69227435/95168318-13c0a280-07ec-11eb-8e0e-7b0441c08ec6.png)
+
+![image](https://user-images.githubusercontent.com/69227435/95168287-0b686780-07ec-11eb-874e-a98b637f6067.png)
+
+![image](https://user-images.githubusercontent.com/69227435/95168241-fbe91e80-07eb-11eb-8f8e-2370e621d0f8.png)
+
+
